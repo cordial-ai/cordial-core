@@ -40,15 +40,11 @@ Please refer this turotial [Get started with Cloud Firestore](https://firebase.g
 
 ### 4. Set Up Environment Variables
 
-### 5. Run the Flask API Server
-Now, you can run the Flask development server:
+### 5. Run the CoRDial Server
+Now, you can run the CoRDial Server:
 
 ```sh
-python app.py
-```
-Or, if you're using Flask's CLI commands:
-```sh
-flask run
+python main.py
 ```
 
 The application should now be running at:  
