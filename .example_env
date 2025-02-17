@@ -1,0 +1,7 @@
+OPENAI_API_KEY=your_openai_api_key_here
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT=https://api.smith.langchain.com
+LANGCHAIN_API_KEY=your_langchain_api_key_here
+LANGCHAIN_PROJECT=cordial-rgu
+GOOGLE_APPLICATION_CREDENTIALS=./firestore-key.json
+WEATHER_API_KEY=youe_open_weather_map_api_key_here
